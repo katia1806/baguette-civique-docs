@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Politique de confidentialité — Baguette Civique
 
-**Dernière mise à jour :** 21 juillet 2026
+**Dernière mise à jour :** 21 septembre 2026
 
 ## 1. Introduction
 
@@ -41,7 +41,9 @@ Si tu désinstalles l'application, toutes ces données sont supprimées.
 
 L'application peut te proposer des rappels quotidiens (« Le savais-tu ? », relance de série, décompte avant examen). Ces notifications sont **planifiées localement** sur ton appareil via le système de notifications d'Expo/OS. Aucun serveur externe n'est utilisé pour te les envoyer.
 
-Tu peux les désactiver à tout moment dans les réglages de ton appareil.
+Elles sont désactivées par défaut. Tu peux les activer ou les désactiver à
+tout moment dans les réglages de l'application, et gérer l'autorisation dans
+les réglages de ton appareil.
 
 ## 5. Permissions demandées
 
@@ -75,6 +77,6 @@ Toute modification de cette politique sera indiquée par une mise à jour de la 
 
 Pour toute question relative à cette politique :
 
-📧 **contact@baguettecivique.app** *(email à remplacer par le vrai avant publication)*
+📧 **baguette.civique@gmail.com**
 
-Éditeur : *(à compléter — voir [LEGAL.md](LEGAL.md))*
+Éditeur : Hugo Fabre, auto-entrepreneur (SIRET 10442386800017) — voir les [mentions légales](../legal/).

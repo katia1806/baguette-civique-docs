@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Conditions Générales d'Utilisation — Baguette Civique
 
-**Dernière mise à jour :** 21 juillet 2026
+**Dernière mise à jour :** 21 septembre 2026
 
 ## 1. Objet
 
@@ -60,7 +60,9 @@ Tu t'engages à utiliser l'application dans un cadre personnel et pédagogique. 
 
 ## 8. Données personnelles
 
-L'application **ne collecte aucune donnée personnelle**. Toutes tes informations restent sur ton appareil. Voir [Politique de confidentialité](PRIVACY.md) pour le détail.
+L'application **ne collecte aucune donnée personnelle**. Toutes tes
+informations restent sur ton appareil. Voir la
+[politique de confidentialité](../privacy/) pour le détail.
 
 ## 9. Modifications de l'application
 
@@ -74,7 +76,7 @@ Tu peux cesser d'utiliser l'application à tout moment en la désinstallant de t
 
 Pour toute question, remarque ou signalement d'erreur :
 
-📧 **contact@baguettecivique.app** *(email à remplacer avant publication)*
+📧 **baguette.civique@gmail.com**
 
 ## 12. Droit applicable
 

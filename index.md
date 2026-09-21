@@ -16,4 +16,4 @@ Application mobile de révision pour l'examen de citoyenneté française
 
 ## Contact
 
-📧 contact@baguettecivique.app *(à remplacer)*
+📧 baguette.civique@gmail.com

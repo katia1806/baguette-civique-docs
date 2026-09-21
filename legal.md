@@ -5,23 +5,23 @@ permalink: /legal/
 
 # Mentions Légales — Baguette Civique
 
-**Dernière mise à jour :** 21 juillet 2026
+**Dernière mise à jour :** 21 septembre 2026
 
 ## Éditeur de l'application
 
-**Nom / Raison sociale :** *(à compléter — nom de la personne physique ou de l'entité qui édite l'app)*
+**Nom / Raison sociale :** Hugo Fabre (entrepreneur individuel)
 
-**Statut juridique :** *(auto-entrepreneur / SASU / SARL / particulier / autre — à préciser)*
+**Statut juridique :** Auto-entrepreneur (micro-entreprise)
 
-**SIRET / SIREN :** *(si applicable — à compléter)*
+**SIRET / SIREN :** 10442386800017
 
-**Adresse :** *(à compléter)*
+**Adresse :** 63 rue Planchat, 75020 Paris, France
 
-**Email de contact :** contact@baguettecivique.app *(à remplacer)*
+**Email de contact :** baguette.civique@gmail.com
 
 ## Directeur de la publication
 
-*(Nom et prénom du responsable de l'application — à compléter)*
+Hugo Fabre
 
 ## Hébergement
 
@@ -47,7 +47,7 @@ Une partie du contenu pédagogique (questions et fiches de révision) s'inspire 
 
 ## Signalement d'un contenu
 
-Si tu constates une erreur factuelle dans une question, une fiche, ou tout autre élément de l'application, tu peux nous contacter par email : contact@baguettecivique.app.
+Si tu constates une erreur factuelle dans une question, une fiche, ou tout autre élément de l'application, tu peux nous contacter par email : baguette.civique@gmail.com.
 
 ## CNIL
 
